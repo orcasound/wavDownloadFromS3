@@ -9,4 +9,6 @@
 ###        Caleb Case
 ###        Mitch Haldeman
 ###        Grant Savage
-##    Specify directory for the wav files and start/stop datetimes and run the loadWav.py file
+##    To get started, install the libraries in the requirements.txt file
+###       Run pip install -r requirements.txt in a terminal window
+##    To download hydrophone data, pecify the directory for the wav files and start/stop datetimes and run the loadWav.py file
